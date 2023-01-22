@@ -1,8 +1,8 @@
 {
-  "name": "theme-generator",
-  "version": "1.0.0",
+  "name": "oai-theme-generator",
+  "version": "1.0.1",
   "description": "UI Color Scheme and Image Generator using OpenAI",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "start:dev": "node app.js",
     "test": "jest"

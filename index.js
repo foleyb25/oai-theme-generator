@@ -6,7 +6,7 @@ openai = null
 module.exports = class ThemeGenerator {
 
     defaultOptions = {
-        imageGenerationPrompt: 'Human: Write me a prompt for Dalle2 art generator that is based on the 80s',
+        imageGenerationPrompt: 'Human: Write me a prompt for An AI art generator. Generate a prompt that is based on the 1980s in the United States',
         colorGenerationPrompt: 'Human: Give me a color scheme representing the 1980s in the United States. give me the colors in Hex Values and give me 8 colors, the first 3 I can use for a background and the other 5 for styling'
     }
 
