@@ -18,7 +18,7 @@ const colorGenerationPrompt = 'Human: Give me a color scheme representing the 18
 ```
 
 Output:
-![Classical 1800s era generated theme](/images/classical_1800s.png)
+![Classical 1800s era generated theme](https://raw.githubusercontent.com/foleyb25/theme-generator-npm/main/images/classical_1800s.png)
 
 Inputs:
 ```javascript
@@ -28,7 +28,7 @@ const colorGenerationPrompt = 'Human: Give me a color scheme representing the ea
 
 Output:
 (fitting!)
-![emo 2000s generated theme](/images/emo_2000s.png)
+![emo 2000s generated theme](https://raw.githubusercontent.com/foleyb25/theme-generator-npm/main/images/emo_2000s.png)
 
 Notice the text on my application does not change with the theme. This is definitely do-able.
 
@@ -39,7 +39,7 @@ const colorGenerationPrompt = 'Human: Give me a color scheme representing prohib
 ```
 
 Output:
-![Prohibition and Chicago generated theme](/images/prohibition_chicago.png)
+![Prohibition and Chicago generated theme](https://raw.githubusercontent.com/foleyb25/theme-generator-npm/main/images/prohibition_chicago.png)
 
 Inputs:
 ```javascript
@@ -48,7 +48,7 @@ const colorGenerationPrompt = 'Human: Give me a color scheme representing the ro
 ```
 
 Output:
-![Roaring 20s generated theme](/images/roaring_20s.png)
+![Roaring 20s generated theme](https://raw.githubusercontent.com/foleyb25/theme-generator-npm/main/images/roaring_20s.png)
 
 Inputs:
 ```javascript
@@ -57,4 +57,4 @@ const colorGenerationPrompt = 'Human: Give me a color scheme representing Woodst
 ```
 
 Output:
-![Woodstock 69 generated theme](/images/woodstock_69.png)
+![Woodstock 69 generated theme](https://raw.githubusercontent.com/foleyb25/theme-generator-npm/main/images/woodstock_69.png)
