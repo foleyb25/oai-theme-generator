@@ -2,4 +2,4 @@
 
 ## Examples
 
-![1980s generated theme](1980s.png)
+![1980s generated theme](/images/1980s.png)
