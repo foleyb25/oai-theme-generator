@@ -9,7 +9,7 @@ const colorGenerationPrompt = 'Human: Give me a color scheme representing the 19
 ```
 
 Output:
-![1980s generated theme](/images/1980s.png)
+![1980s generated theme](https://raw.githubusercontent.com/foleyb25/theme-generator-npm/main/images/1980s.png)
 
 Inputs:
 ```javascript
