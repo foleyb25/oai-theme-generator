@@ -1,0 +1,25 @@
+{
+  "name": "theme-generator",
+  "version": "1.0.0",
+  "description": "UI Color Scheme and Image Generator using OpenAI",
+  "main": "app.js",
+  "scripts": {
+    "start:dev": "node app.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "theme",
+    "generator",
+    "openAI",
+    "AI",
+    "art",
+    "color",
+    "scheme"
+  ],
+  "author": "Brian Foley",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
