@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "UI Color Scheme and Image Generator using OpenAI",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:foleyb25/oai-theme-generator.git"
+  },
   "scripts": {
     "start:dev": "node app.js",
     "test": "jest"
