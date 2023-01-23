@@ -51,6 +51,10 @@ Notice the prompt is different in the output than the one you input. This is bec
 
 As of now, it's set to create 8 and exactly 8 colors for the color scheme. If the AI does not return 8 colors as specified, the request will fail. Simple fix will be implemented soon.
 
+### Image Retrieval Authentication issues
+
+The image url that is returned from OpenAI is good for a limited amountj of time then Authentication issues happen. The developer will need to download the image and save it in their own form of storage. Image compression is needed as well.
+
 ## Future Implementations
 
 ### Fine tune the inputs 
@@ -66,6 +70,10 @@ which can be interpolated into the string like so:
 ```javascript
 'Human: Give me a color scheme representing ${ThemeEra}. give me the colors in Hex Values and give me ${numColors} colors'
 ```
+
+### Specify image dimensions inputs
+
+Give the user the ability to specify the image size returned. The size of the image right now is around 3 mb and reducing the dimensions would help with load times.
 
 ## Examples
 
