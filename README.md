@@ -1,4 +1,4 @@
-# Theme Generator
+# oai-theme-generator
 
 ## Examples
 
